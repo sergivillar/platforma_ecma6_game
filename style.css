@@ -34,3 +34,11 @@
 .player {
     background: rgb(70, 70, 70);
 }
+
+.lost .player {
+    background: rgb(160, 65, 65);
+}
+
+.won .player {
+    box-shadow: -5px -7px 8px white, 5px -7px 8px white;
+}
