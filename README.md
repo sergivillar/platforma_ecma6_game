@@ -1,1 +1,1 @@
-# JavaScritp Game using ES6 features
+# JavaScript Game using ES6 features
